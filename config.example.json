@@ -1,0 +1,6 @@
+{
+  "username" : "ISI_USERNAME_KRSOL",
+  "password" : "ISI_PASSWORD_KRSOL",
+  "telegramToken": "ISI_TELEGRAM_BOT_TOKEN",
+  "chatID": "ISI_TELEGRAM_CHAT_ID"
+}
